@@ -2,7 +2,7 @@
 
 A lightweight, customizable toast notification system for web applications. This project demonstrates a stylish "Points Earned" alert with support for images, animations, and auto-dismissal.
 
-[Alert Screenshot](<img width="1431" height="808" alt="Screenshot 2025-12-23 at 7 47 55 PM" src="https://github.com/user-attachments/assets/299c1258-99df-4a38-9a40-c85b18caab86" />
+![Alert Screenshot](<img width="1431" height="808" alt="Screenshot 2025-12-23 at 7 47 55 PM" src="https://github.com/user-attachments/assets/299c1258-99df-4a38-9a40-c85b18caab86" />
 )
 
 ## Features
